@@ -24,6 +24,8 @@ Hardware-Software Interfacing (HSI) - The HSI team is working towards redesignin
 
 ## Team Structure
 
+*Project Lead* - Leelai Teshome
+
 *Actuation Team*:
 - Design the joints and tensile forces behind them to allow for the opening and closing of the hand.
 - Team Lead: Hailey Hyde
@@ -33,5 +35,8 @@ Hardware-Software Interfacing (HSI) - The HSI team is working towards redesignin
 - Design the prosthetic hand and mounts necessary for servo placement and control.
 - Team Lead - Taru Mishra
 - Members: Kate Long, Liam Ignacio, Mehel Kanhere, Rahul Karthik, Rhyan Stresow, Ruba Siddiqi, Varun Sirigireddy
-  - Project Lead: Sean Omodon
-  - Subsystems: Drivetrain Mechanism, Electronics, Hardware-Software Integration
+ 
+*Hardware-Software Interfacing Team*
+ - Create the code and circuitry necessary to integrate external signals into servo movement.
+ - Team Lead - Daniel Song
+ - Members: Anna Ledbetter, Soorya Narayaran, Jorge Nunez, Alicia Richard, Aprameya Sudharsan, Zara Siddiqi
